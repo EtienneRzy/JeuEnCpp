@@ -17,9 +17,9 @@ git branch NomBranche
 -> Push branche
 git add .
 git commit -m "kjhkjhkjhkj"
-git push -u origin NomBranche
+git push
 
 -> Mettre à jour main
 git checkout main
-git pull origin main
+git pull 
 
